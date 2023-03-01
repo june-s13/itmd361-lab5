@@ -7,7 +7,7 @@ h1{
   color: white;
   font-family: system-ui;
   text-align: center;
-  font: bold 65px system-ui;
+  font: italic 65px system-ui;
   background-image: linear-gradient(to left, rgb(241, 124, 124), hsl(162, 81%, 58%), rgb(112, 22, 175), hsl(162, 81%, 58%), cyan);
   border-radius: 10px; 
 }
